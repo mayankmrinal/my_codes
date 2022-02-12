@@ -14,6 +14,7 @@ class AnimatedGif(tk.Label):
 	def __init__(self, root, gif_file, delay=0.04):
 		"""
 		:param root: tk.parent
+		#abc
 		:param gif_file: filename (and path) of animated gif
 		:param delay: delay between frames in the gif animation (float)
 		"""
